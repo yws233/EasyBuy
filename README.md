@@ -1,5 +1,4 @@
 # EasyBuy
-# EasyBuy
 
 ## EasyBuy是一款仿易买网的java web 项目。
 
